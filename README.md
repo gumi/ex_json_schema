@@ -1,6 +1,6 @@
 # Elixir JSON Schema validator
 
-**`ex_json_schema` 0.6.1 with [this PR](https://github.com/jonasschmidt/ex_json_schema/pull/43)**
+## `ex_json_schema` 0.6.1 with [this PR](https://github.com/jonasschmidt/ex_json_schema/pull/43)
 
 [![Build Status](https://travis-ci.org/jonasschmidt/ex_json_schema.svg?branch=master)](https://travis-ci.org/jonasschmidt/ex_json_schema) [![Coverage Status](https://coveralls.io/repos/jonasschmidt/ex_json_schema/badge.svg?branch=travis-elixir-version&service=github)](https://coveralls.io/github/jonasschmidt/ex_json_schema?branch=travis-elixir-version) [![Hex.pm](http://img.shields.io/hexpm/v/ex_json_schema.svg)](https://hex.pm/packages/ex_json_schema) [![Hex.pm](http://img.shields.io/hexpm/l/ex_json_schema.svg)](LICENSE)
 
